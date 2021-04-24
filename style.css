@@ -47,6 +47,9 @@
 	
 	color: #D1A0A0;
  }
+a{
+ 	text-decoration : none;
+ }
  #content
  {
  	position: absolute;
